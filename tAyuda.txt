@@ -1,0 +1,15 @@
+Bienvenido a nuestro juego para el proyecto de programacion.
+
+Las instrucciones son las siguientes:
+
+1. Antes de entrar al videojuego, debes de escribir tu usuario.
+
+2. Al entrar al videojuego, el objetivo sera ordenar las imagenes para que se muestren como la figura de la derecha.
+
+3. Para moverte, puedes utilizar las teclas correspondientes a las flechas de: arriba, abajo, derecha e izquierda.
+
+4. Solo puedes mover la imagen con un cuadro pintado de azul.
+
+5. Para mover la imagen en una direccion especifica, primero colocate cerca del cuadro donde deseas mover la imagen. Asegurate de estar correctamente posicionado en la direccion deseada y luego presiona la tecla ENTER para realizar el movimiento.
+
+6. Ganaras al tener toda la imagen ordenada.
